@@ -18,7 +18,7 @@
 | [ESP32-C3 Supermini Plus](https://www.tinytronics.nl/nl/development-boards/microcontroller-boards/met-wi-fi/esp32-c3-supermini-plus-development-board-met-gesoldeerde-headers) | the brain of the starburst | 1 | $5.60 | $5.60 | [Tinytronics](https://www.tinytronics.nl/nl/development-boards/microcontroller-boards/met-wi-fi/esp32-c3-supermini-plus-development-board-met-gesoldeerde-headers) |
 | [Bottons black](https://www.tinytronics.nl/nl/schakelaars/manuele-schakelaars/printplaatschakelaars/breadboard-tactile-pushbutton-switch-momentary-2pin-6*6*5mm) | to move the starburst | 2 | $0.17 | $0.34 | [Tinytronics](https://www.tinytronics.nl/nl/schakelaars/manuele-schakelaars/printplaatschakelaars/breadboard-tactile-pushbutton-switch-momentary-2pin-6*6*5mm) |
 | **Parts subtotal** | — | — | — | **$23.86** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$23.86** | — |
+| **Tax & shipping** | — | — | — | **$3.31** | — |
+| **Total** | — | — | — | **$27.17** | — |
 
-$6.14 left of the tier's funding.
+$2.83 left of the tier's funding.
